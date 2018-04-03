@@ -1,0 +1,26 @@
+#headline{
+    width: 600px;
+    background-color:black;
+    color: white;
+    max-width: 100%;
+}
+
+#snippet {
+    width: 600px;
+    color: #eee;
+    max-width: 100%;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#image {
+    max-width: 100%;
+  
+}
+
+.individual {
+    margin-bottom: 0px;
+}

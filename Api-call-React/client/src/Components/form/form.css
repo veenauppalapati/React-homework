@@ -1,0 +1,21 @@
+h3 {
+    color: red;
+    text-align: center; 
+}
+
+
+.label {
+    text-align: center;
+}
+
+
+button {
+    width: 100%;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    border: solid white 3px;
+}
+
